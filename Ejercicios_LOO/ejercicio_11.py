@@ -13,3 +13,4 @@ def sumarmultiplos(n):
 numero = int(input("Ingrese un número: "))
 
 print(sumarmultiplos(numero))
+
